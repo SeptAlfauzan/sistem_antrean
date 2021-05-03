@@ -2,10 +2,25 @@
 Tugas Besar PBO (sistem antrean)
 
 Anggota: 
-- Krisma Anuarin Hidayat
-- Septa Alfauzan
-- Zahratur Rafi'ah
+- Krisma Anuarin Hidayat (200535626877)
+- Septa Alfauzan (200535626841)
+- Zahratur Rafi'ah (200535626755)
 
-Untuk menjalankan program versi procedural, compile AntreanProcedural.java.
+Untuk menjalankan program versi procedural, compile 
+```
+javac AntreanProcedural.java
+java AntreanProcedural
 
-Sedangkan untuk menjalankan program yang menerapkan poin-poin PBO, compile Main.java
+```
+
+Sedangkan untuk menjalankan program yang menerapkan poin-poin PBO, compile 
+
+```
+javac Main.java
+java Main
+
+```
+
+Preview singkat program
+
+![Preview gagal ditampilkan](https://media.giphy.com/media/3NTV7iIE5UEgFdzw7n/giphy.gif)
