@@ -66,9 +66,20 @@ public class Antrean extends DataDiri{
     protected int getNomorUrut(){
         return this.nomorUrut;
     }
+    protected Antrean getSpecificData(int nomorUrut){
+        Antrean temp = this;
+        while(temp.nomorUrut != 0){
+            if (temp.nomorUrut == nomorUrut) {
+                return temp;
+            }
+            temp = temp.selanjutnya;
+        }
+        return null;
+    }
     public static int getPanjangAntrean() {
         return panjangAntrean;
     }
+
     
 
     @Override

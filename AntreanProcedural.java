@@ -167,7 +167,6 @@ public class AntreanProcedural extends javax.swing.JFrame implements ActionListe
         btnProsesAntrian.setBackground( new Color(133, 30, 250));
         btnProsesAntrian.setForeground( new Color(255, 255, 255));
         btnProsesAntrian.setText("Proses Antrian");
-        btnProsesAntrian.setText("Ambil Nomor Antrian");
         btnProsesAntrian.setFont(new Font("Calibri", Font.BOLD, 14));
 
 
