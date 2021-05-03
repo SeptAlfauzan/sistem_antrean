@@ -23,4 +23,4 @@ java Main
 
 Preview singkat program
 
-![Preview gagal ditampilkan](https://media.giphy.com/media/3NTV7iIE5UEgFdzw7n/giphy.gif)
+[<center><img src="https://media.giphy.com/media/3NTV7iIE5UEgFdzw7n/giphy.gif" width="60%"/><center>](https://media.giphy.com/media/3NTV7iIE5UEgFdzw7n/giphy.gif)
